@@ -1,1 +1,1 @@
-#:computer: projects Git :computer:#
+**:computer: projects Git :computer:**
